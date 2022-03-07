@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">VISIBLE_FILES</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\x.alexakos\AppData\Local\JetBrains\Rider2021.3\resharper-host\temp\Rider\vAny\CoverageData\_TestAssignment.-525931321\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3460705f_002D67d6_002D4a8f_002D9e4b_002Dbe6f60953c16/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParaBankLoginFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B6EF942E-30F6-40C4-9783-623FD52A6FB8::net6.0::TestAssignment.Features.LoginFeature&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B6EF942E-30F6-40C4-9783-623FD52A6FB8::net6.0::TestAssignment.Features.RegistrationFeature&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
